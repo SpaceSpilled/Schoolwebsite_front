@@ -2,7 +2,7 @@
 
 This is the front end of the school website done in react.js
 
-&npsp;
+&nbsp;
 
 ### How to run
 
